@@ -1,0 +1,11 @@
+This exercise is to create a method which checks whether 2 strings are an anagram or not. 
+An anagram is a rearranged version of a word but has the same characters.  Ex. racecar and carecar are anagrams.
+
+Steps to setup, create a static method called isAnagram() in the main file which takes two string parameters and returns a boolean.
+static boolean isAnagram(String a, String b){
+    //add code
+}
+
+Make sure to import the Arrays library.
+
+Have fun!
